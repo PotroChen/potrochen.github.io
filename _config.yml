@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: 陈麟的微博 | Potro's Blog
+title: Potro's Blog
 email: 1400539511@qq.com
 description: 与一只西瓜同归于尽
 baseurl: # the optional subpath of your site, e.g. "/blog"
