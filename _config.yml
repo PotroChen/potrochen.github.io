@@ -76,10 +76,10 @@ exclude:
   - /example # ignore Basically Basic dev site
 
 # Collections
-collections:
-  techblogs:
-    output: true
-    permalink: /:collection/:path/
+# collections:
+#   techblogs:
+#     output: true
+#     permalink: /:collection/:path/
     
 # Front Matter Defaults
 defaults:
@@ -87,13 +87,6 @@ defaults:
   - scope:
       path: "_posts"
       type: posts
-    values:
-      layout: post
-      read_time: true
-  # _techblogs
-  - scope:
-      path: "_techblogs"
-      type: techblogs
     values:
       layout: post
       read_time: true
