@@ -3,6 +3,8 @@ title: "我的第一篇博客"
 date: 2019-12-28
 categories:
   - Post
+tags:
+  - 生活
 ---
 
 这是我的第一篇博客。模板是我在github上从[mmistakes的仓库](https://github.com/mmistakes/jekyll-theme-basically-basic)fork过来的。  
