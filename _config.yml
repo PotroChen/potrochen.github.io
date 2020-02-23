@@ -92,4 +92,4 @@ defaults:
       read_time: true
 # comments
 disqus:
-    shortname: potrochen.github.io
+    shortname: potrochen-github-io
