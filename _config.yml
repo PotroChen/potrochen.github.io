@@ -90,3 +90,6 @@ defaults:
     values:
       layout: post
       read_time: true
+# comments
+disqus:
+    shortname: potrochen.github.io
