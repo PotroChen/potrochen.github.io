@@ -32,6 +32,7 @@ tags:
 ![image04]({{ site.url }}{{ site.baseurl }}/assets/../../assets/images/如何制作LUT贴图，并应用到unity中_image04.png)
 256x16  
 ![image05]({{ site.url }}{{ site.baseurl }}/assets/../../assets/images/如何制作LUT贴图，并应用到unity中_image05.png)
+
 ## 怎么在Unity中使用？
 将LUT贴图导入项目，TextureType为Default,TextureShap为2D，并将sRGB关掉。  
 默认渲染管线：
